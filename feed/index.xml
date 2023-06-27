@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Elanthirayan</title>
-	<atom:link href="/https://elanthirayanm.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://elanthirayanm.github.io</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate></lastBuildDate>
 	<language>en-US</language>
